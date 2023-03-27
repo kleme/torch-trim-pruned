@@ -1,0 +1,5 @@
+src/__pycache__/**
+**/*.pyc
+dist/**
+build/**
+torch_trim_pruned.egg-info/**
